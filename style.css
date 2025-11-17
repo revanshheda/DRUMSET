@@ -244,11 +244,3 @@ footer {
         font-size: 1.8rem;
     }
 }
-.set {
-  /* ... */
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 40px;
-  /* ... */
-}
